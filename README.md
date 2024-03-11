@@ -2,9 +2,7 @@
 
 ## About The Project
 
-This is the techincal test for the TYL by Natwest Software developer position.
-
-I spent around 2 hours putting this together to meet the requirements set out in the technical test specification document.
+I spent around 2 hours putting this together to meet the requirements set out in the specification document.
 
 Things to note:
 
